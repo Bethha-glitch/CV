@@ -1,0 +1,75 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.name {
+  border-top: 20px solid #557B83;
+  margin: 40px 30px 0 30px;
+  padding: 40px 0 20px 50px;
+}
+h2 {
+  color: #557B83;
+}
+.flex {
+  display: flex;
+  padding-left: 80px;
+}
+.fas {
+  padding: 25px 10px 0 0;
+}
+.summary {
+  color:  #557B83;
+  padding: 20px 0 20px 80px;
+}
+p {
+  font-size: 1rem;
+  padding: 0 30px;
+}
+.skills {
+  color:  #557B83;
+  padding: 20px 0 0 80px;
+  border-top: 5px solid  #557B83;
+  border-width: medium;
+}
+li {
+  margin: 0 auto;
+  padding-top: 20px;
+font-size: 1rem;
+width: 60%;
+}
+.work {
+  color:  #557B83;
+  padding: 40px 0 20px 80px;
+  border-top: 5px solid  #557B83;
+  border-width: medium;
+}
+.flex-two {
+  display: flex;
+}
+.space {
+  padding-top: 70px;
+}
+.ed {
+  color:  #557B83;
+  padding: 40px 0 20px 80px;
+  border-top: 5px solid  #557B83;
+  border-width: medium;
+}
+.ed-d {
+  margin: 0 auto;
+  width: 40%;
+}
+.d-2 {
+  padding-top: 20px;
+}
+.location {
+  font-weight: bold;
+}
+.lang {
+  color:  #557B83;
+  padding: 40px 0 20px 80px;
+  border-top: 5px solid  #557B83;
+  border-width: medium;
+}
+.last {
+  padding-bottom: 40px;
+}
